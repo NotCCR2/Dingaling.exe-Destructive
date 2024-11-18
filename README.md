@@ -1,5 +1,6 @@
 # 🤔 Dingaling.exe
 No, this is NOT my malware. It was made by a close friend of mine called VenraTech.
+I made the destructive version.
 
 # ❤️ For Skidders
 This one is mainly for you, N17Pro3426 and FedouM.
