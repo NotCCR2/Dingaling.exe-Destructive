@@ -1,5 +1,5 @@
 # 🤔 Dingaling.exe
-No, this is NOT my malware. It was made by a close friend of mine called VenraTech.
+No, this is NOT my malware. It was made by comium97.
 I made the destructive version.
 
 # ❤️ For Skidders
